@@ -1,2 +1,2 @@
-# The-Brokens
-The Brokens Link https://modrinth.com/project/the-brokens
+# The-Broken
+The Broken Link https://modrinth.com/project/the-brokens
